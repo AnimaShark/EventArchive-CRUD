@@ -1,4 +1,4 @@
-# EventList - CRUD Project
+# EventBook - CRUD Project
 
 A basic ASP.NET MVC 5 web application for managing event listings.  
 This project was built as a learning exercise following Microsoft's official ASP.NET MVC tutorial, with custom improvements to enhance functionality and structure.
